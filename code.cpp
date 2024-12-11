@@ -34,7 +34,7 @@ void Pacman::Credit()	//THE GAME CREATERS
 {
 	system("cls");
 	cout << "GAME CREATED BY \n";
-	cout << "23F-0536 AHMAD WASEEM \n";
+	
 	cout << "23F-0529 MASHAF ZAIDI \n";
 }
 
