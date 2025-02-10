@@ -5,7 +5,6 @@ A modern implementation of the classic Pacman game using C++ in Visual Studio. G
 .........................Core Gameplay:....................
 Classic Pacman mechanics with smooth movement and ghost AI.
 Scoring System: Tracks the player's score in real-time.
-Multiple Levels: Each level features unique maze designs and increasing difficulty.
 Power Pellets: Temporary ability to eat ghosts.
 Customizable Settings: Adjust speed, number of lives, and difficulty level.
 
@@ -37,15 +36,18 @@ Collect all pellets in the maze to progress to the next level.
 Avoid ghosts or eat them after consuming a power pellet.
 Winning: Clear all levels without losing all lives.
 Losing: Lose all lives by being caught by ghosts.
-Screenshots
-(Optional: Add ASCII art or an actual image of the game screen)
+
 
 Roadmap
  Basic Pacman movement and pellet collection.
- Ghost AI with random and chase modes.
- Enhanced graphics with a library like SFML or SDL.
- Additional levels with unique layouts.
- Multiplayer support.
-Contributing
 Contributions are welcome! To contribute:
+
+Screen_shots:
+![image](https://github.com/user-attachments/assets/23d8115f-ed59-4a2d-bf37-460b54744097)
+//it is the basic menue for game
+![image](https://github.com/user-attachments/assets/89a81728-3cc4-4e45-8a1a-46c4fff84a2e)
+![image](https://github.com/user-attachments/assets/28c14dc0-5388-4797-8b65-a51e86f3d741)
+
+
+
 
