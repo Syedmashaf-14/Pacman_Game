@@ -29,7 +29,7 @@ Losing: Lose all lives by getting caught by ghosts.
 ## Tech Stack Used
 C++ – Core game logic and object-oriented programming.
 Visual Studio – Development environment.
-File Handling – Used to store maze configurations and game progress.
+
 
 ## Prerequisites
 Visual Studio 2019 or later
