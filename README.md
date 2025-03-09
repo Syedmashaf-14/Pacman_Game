@@ -16,12 +16,7 @@ Real-time Scoring System – Tracks the player’s progress dynamically.
 Power Pellets – Temporarily allow Pacman to eat ghosts for extra points.
 Customizable Settings – Adjust speed, difficulty level, and the number of lives.
 
-## How to Play
-1. Run the executable file.
-2. Roll the dice on your turn.
-3. Move forward according to the dice value.
-4. If you land on a ladder, you move up; if you land on a snake, you slide down.
-5. The first player to reach the final position wins the game.
+
 
 ## Controls
 -Controls: Use W, A, S, D to move Pacman up, left, down, or right.
