@@ -51,13 +51,11 @@ Build the project:
 Select Build → Build Solution from the menu (or press Ctrl+Shift+B)
 Run the project:
 Press F5 to start debugging or Ctrl+F5 to run without debugging
-```
-
-
 
 
 ## Author
 [SYED MASHAF ZAIDI]
+
 
 ## OUTPUTS
 ![image](https://github.com/user-attachments/assets/3d56ad58-53c0-4d28-9df9-6512ca072ff2)
