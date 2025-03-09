@@ -1,53 +1,53 @@
-...........................................................**Pacman Game in C++**...........................................
+Pacman Game in C++ (Object-Oriented Programming)
+I developed a modern implementation of the classic Pacman game using C++ in Visual Studio, applying object-oriented programming (OOP) principles. This project highlights my skills in game development, AI-based movement, and structured programming.
 
-A modern implementation of the classic Pacman game using C++ in Visual Studio. Guide Pacman through a maze, collect pellets, and avoid ghosts while progressing through challenging levels.
+Project Overview
+This game is a console-based Pacman game where the player navigates through a maze, collects pellets, and avoids ghosts while progressing through multiple levels. Power pellets allow Pacman to eat ghosts for a short time. The game features a real-time scoring system and customizable settings.
 
-.........................Core Gameplay:....................
-Classic Pacman mechanics with smooth movement and ghost AI.
-Scoring System: Tracks the player's score in real-time.
-Power Pellets: Temporary ability to eat ghosts.
-Customizable Settings: Adjust speed, number of lives, and difficulty level.
-
-
-...................Technologies Used:...............
-Programming Language: C++
-Development Environment: Visual Studio (2019 or later recommended).
-Installation
+Key Features
+Smooth Movement – Implemented intelligent ghost movement patterns.
+Scoring System – Tracks and updates the player’s score dynamically.
+Power Pellets – Grants Pacman the ability to eat ghosts temporarily.
+Customizable Settings – Players can adjust speed, difficulty level, and number of lives.
+Technologies Used
+Programming Language – C++
+Development Environment – Visual Studio (2019 or later recommended)
+Installation Guide
 Prerequisites
-Visual Studio 2019 or later.
-C++ development workload installed.
-Steps
-Clone this repository:
+Visual Studio 2019 or later
+C++ development workload installed
+Steps to Run the Game
+Clone the repository:
 bash
-Copy code
-git clone https://github.com/Syedmashaf-14/pacman-game-cpp.git
-.....................Open the project in Visual Studio:..............
-Navigate to the pacman-game-cpp folder.
-Open the Pacman.sln file.
+Copy
+Edit
+git clone https://github.com/Syedmashaf-14/pacman-game-cpp.git  
+Open the project in Visual Studio:
+Navigate to the pacman-game-cpp folder
+Open the Pacman.sln file
 Build the project:
-Select Build -> Build Solution from the menu (or press Ctrl+Shift+B).
+Select Build → Build Solution from the menu (or press Ctrl+Shift+B)
 Run the project:
-Press F5 to start debugging or Ctrl+F5 to run without debugging.
-
-..........................How to Play........................
-Controls: Use the A,S,W,D to move Pacman up, down, left, or right.
-**Objective:
+Press F5 to start debugging or Ctrl+F5 to run without debugging
+How to Play
+Controls: Use W, A, S, D to move Pacman up, left, down, or right.
+Objective:
 Collect all pellets in the maze to progress to the next level.
 Avoid ghosts or eat them after consuming a power pellet.
 Winning: Clear all levels without losing all lives.
-Losing: Lose all lives by being caught by ghosts.
+Losing: Lose all lives by getting caught by ghosts.
+Project Roadmap
+Implement basic Pacman movement and pellet collection.
+Improve ghost AI for dynamic behavior.
+Enhance game mechanics with additional power-ups.
+Screenshots
+
+Basic menu of the game
 
 
-Roadmap
- Basic Pacman movement and pellet collection.
+
+
+
+Contributions
 Contributions are welcome! To contribute:
-
-Screen_shots:
-![image](https://github.com/user-attachments/assets/23d8115f-ed59-4a2d-bf37-460b54744097)
-//it is the basic menue for game
-![image](https://github.com/user-attachments/assets/89a81728-3cc4-4e45-8a1a-46c4fff84a2e)
-![image](https://github.com/user-attachments/assets/28c14dc0-5388-4797-8b65-a51e86f3d741)
-
-
-
 
