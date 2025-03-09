@@ -1,22 +1,25 @@
-Pacman Game in C++ (Object-Oriented Programming)
-I developed a modern implementation of the classic Pacman game using C++ in Visual Studio, applying object-oriented programming (OOP) principles. This project highlights my skills in game development, AI-based movement, and structured programming.
+#Pacman Game in C++ (Object-Oriented Programming):
+I developed a Pacman Game in C++, utilizing object-oriented programming (OOP) principles to create a structured and interactive console-based game. This project showcases my skills in game development, AI-based movement, and structured programming.
 
-Project Overview
-This game is a console-based Pacman game where the player navigates through a maze, collects pellets, and avoids ghosts while progressing through multiple levels. Power pellets allow Pacman to eat ghosts for a short time. The game features a real-time scoring system and customizable settings.
+##Project Overview
+This game follows the classic Pacman mechanics, where the player navigates through a maze, collecting pellets while avoiding ghosts. The objective is to clear the board by eating all the pellets while strategically using power pellets to turn the ghosts vulnerable for a limited time.
 
-Key Features
-Smooth Movement – Implemented intelligent ghost movement patterns.
-Scoring System – Tracks and updates the player’s score dynamically.
-Power Pellets – Grants Pacman the ability to eat ghosts temporarily.
-Customizable Settings – Players can adjust speed, difficulty level, and number of lives.
-Technologies Used
-Programming Language – C++
-Development Environment – Visual Studio (2019 or later recommended)
+##Key Features
+Object-Oriented Design – Implemented classes for Pacman, Ghosts, Maze, and Game Controller for a modular structure.
+Ghost AI Movement – Ghosts follow a predefined AI-based movement logic to chase Pacman.
+Dynamic Maze Representation – The maze is stored in a 2D array, allowing easy modifications.
+Real-time Scoring System – Tracks the player’s progress dynamically.
+Power Pellets – Temporarily allow Pacman to eat ghosts for extra points.
+Customizable Settings – Adjust speed, difficulty level, and the number of lives.
+##Tech Stack Used
+C++ – Core game logic and object-oriented programming.
+Visual Studio – Development environment.
+File Handling – Used to store maze configurations and game progress.
 Installation Guide
 Prerequisites
 Visual Studio 2019 or later
 C++ development workload installed
-Steps to Run the Game
+##Steps to Run the Game
 Clone the repository:
 bash
 Copy
@@ -38,19 +41,12 @@ Winning: Clear all levels without losing all lives.
 Losing: Lose all lives by getting caught by ghosts.
 Project Roadmap
 Implement basic Pacman movement and pellet collection.
-Improve ghost AI for dynamic behavior.
-Enhance game mechanics with additional power-ups.
+Improve ghost AI for more dynamic behavior.
+Add more power-ups and advanced game mechanics.
 Screenshots
-
-![image](https://github.com/user-attachments/assets/a98be36c-83c6-4bd5-a847-7d0df554cc24)
-![image](https://github.com/user-attachments/assets/a9ddb32b-0694-4de4-8ce7-bffe4dc92a7c)
-![image](https://github.com/user-attachments/assets/9c4721b4-be3f-4b66-b983-10542812a2f8)
-
+![image](https://github.com/user-attachments/assets/a15767bd-9095-4bf0-bedf-b412aa9ebcee)
+![image](https://github.com/user-attachments/assets/683b9c47-61e2-45d8-87a6-71401b9c1ba7)
+![image](https://github.com/user-attachments/assets/1fe1117d-be48-4c7e-aacc-3b3687c08dff)
 
 
-
-
-
-Contributions
-Contributions are welcome! To contribute:
 
