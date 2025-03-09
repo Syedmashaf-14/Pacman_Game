@@ -42,7 +42,10 @@ Improve ghost AI for dynamic behavior.
 Enhance game mechanics with additional power-ups.
 Screenshots
 
-Basic menu of the game
+![image](https://github.com/user-attachments/assets/a98be36c-83c6-4bd5-a847-7d0df554cc24)
+![image](https://github.com/user-attachments/assets/a9ddb32b-0694-4de4-8ce7-bffe4dc92a7c)
+![image](https://github.com/user-attachments/assets/9c4721b4-be3f-4b66-b983-10542812a2f8)
+
 
 
 
